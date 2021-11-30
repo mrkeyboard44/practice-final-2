@@ -1,10 +1,10 @@
 /*
- * Project:
+ * Project:Exam Practice Question 2
  * File Name: main.js
- * Description:
+ * Description: applies a grayscale filter to photos in a .zip file
  *
- * Created Date:
- * Author:
+ * Created Date: Nov 30 / 2021
+ * Author: Matthew Dandar A01180450
  *
  */
 

@@ -1,10 +1,10 @@
 /*
- * Project:
+ * Project: Exam Practice Question 2
  * File Name: IOhandler.js
  * Description: Collection of functions for files input/output related operations
  *
  * Created Date: Nov 29 / 2021
- * Author: Matthew Dandar
+ * Author: Matthew Dandar A01180450
  *
  */
 
